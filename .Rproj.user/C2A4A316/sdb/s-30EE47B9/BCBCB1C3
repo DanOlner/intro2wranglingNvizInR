@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1479751988422.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BCBCB1C3",
+    "lastKnownWriteTime" : 3415263940243453043,
+    "last_content_update" : 1479751988422,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5r3m77fh59",
+        "caption" : "luton_w_geogs",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=luton_w_geogs&cache_key=5r3m77fh59",
+        "displayedObservations" : "296198",
+        "environment" : "",
+        "object" : "luton_w_geogs",
+        "totalObservations" : "296198",
+        "variables" : "9"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

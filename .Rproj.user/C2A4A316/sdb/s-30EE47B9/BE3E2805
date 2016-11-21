@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1479753746829.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BE3E2805",
+    "lastKnownWriteTime" : 8246195845635272303,
+    "last_content_update" : 1479753746829,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "at1nai7c0e",
+        "caption" : "london_pricePerWardGroupPerYear",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=london_pricePerWardGroupPerYear&cache_key=at1nai7c0e",
+        "displayedObservations" : 44,
+        "environment" : "",
+        "object" : "london_pricePerWardGroupPerYear",
+        "totalObservations" : 44,
+        "variables" : 4
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

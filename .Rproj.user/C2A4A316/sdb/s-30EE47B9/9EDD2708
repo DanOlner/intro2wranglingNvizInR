@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1479749913861.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9EDD2708",
+    "lastKnownWriteTime" : 3415263940243453043,
+    "last_content_update" : 1479749913861,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "qpnpn5ownq",
+        "caption" : "london_topBottomWards",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=london_topBottomWards&cache_key=qpnpn5ownq",
+        "displayedObservations" : 781,
+        "environment" : "",
+        "object" : "london_topBottomWards",
+        "totalObservations" : 781,
+        "variables" : 4
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

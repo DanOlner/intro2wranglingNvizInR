@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1479749950453.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B8623CBF",
+    "lastKnownWriteTime" : 3415263940243453043,
+    "last_content_update" : 1479749950453,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "r5eal2pyjf",
+        "caption" : "london_pricePerWard",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=london_pricePerWard&cache_key=r5eal2pyjf",
+        "displayedObservations" : 781,
+        "environment" : "",
+        "object" : "london_pricePerWard",
+        "totalObservations" : 781,
+        "variables" : 3
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

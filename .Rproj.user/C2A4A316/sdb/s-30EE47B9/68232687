@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "#moar testing\ntst <- london %>% \n  group_by(ward) %>% \n  mutate(avPrice = mean(price)) %>% \n  ungroup() %>%\n  mutate(rank = dense_rank(avPrice),\n         topBottom = ifelse(rank < (max(rank)/2), 1,2),\n         test = (max(rank)))\n\ntable(tst$topBottom)\n",
+    "created" : 1479754705975.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "650869792",
+    "id" : "68232687",
+    "lastKnownWriteTime" : 1479755118,
+    "last_content_update" : 1479755118071,
+    "path" : "C:/Users/SMI2/Dropbox/SheffieldMethodsInstitute/Training/Intro_to_R_Nov2016/Introduction2Wrangling_n_Viz_R/RMarkdown/tests.R",
+    "project_path" : "RMarkdown/tests.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

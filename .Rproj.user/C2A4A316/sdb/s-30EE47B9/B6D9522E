@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1479750774558.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B6D9522E",
+    "lastKnownWriteTime" : 5207110522090319471,
+    "last_content_update" : 1479750774558,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "7ihalhnxup",
+        "caption" : "london_CHANGEPerGroupPerYear",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=london_CHANGEPerGroupPerYear&cache_key=7ihalhnxup",
+        "displayedObservations" : 44,
+        "environment" : "",
+        "object" : "london_CHANGEPerGroupPerYear",
+        "totalObservations" : 44,
+        "variables" : 6
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
